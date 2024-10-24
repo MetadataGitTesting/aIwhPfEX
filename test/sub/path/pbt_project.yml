@@ -1,0 +1,49 @@
+name: vanesa.adams
+description: Right-sized
+version: 0.0.1
+author: r9fekfem.kdtmmz1c@3g1a1ypv.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: vanesaadams
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:05:47'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:05:47'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:05:47.200964Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '1068905903'
+  createdAt: '2024-10-24T22:05:47.200964Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
